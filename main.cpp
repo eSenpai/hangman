@@ -2,7 +2,7 @@
 
 The main objective is to make a hangman game with a text file for words
 
-Made by Dominykas Litvaitis
+Made by Dominykas
 
 */
 
